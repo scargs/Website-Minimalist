@@ -23,7 +23,7 @@ Tecnologias usadas para construir o Site:
 
 ## :notebook_with_decorative_cover: O que aprendi de importante
 
-- A importância de um código semântico e bem estruturado
+- A importância de um código semântico e bem estruturado no HTML
 - Estruturar o projeto com arquitetura de CSS
 - Criar site responsivo usando as classes no CSS
 
