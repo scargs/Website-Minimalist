@@ -30,7 +30,7 @@ Tecnologias usadas para construir o Site:
 ## Feedback
 Ainda estou em um processo de aprendizado de desenvolvimento web, então fique à vontade para me enviar um e-mail se você tiver quaisquer feedbacks / comentários ou qualquer coisa útil que possa me ajudar a continuar melhorando.
 
-
+<br>
 ## Projeto concluído
 
 ![game](https://user-images.githubusercontent.com/99623159/154178763-4d74d91d-9898-4496-aaed-193127a1b750.png)
