@@ -30,4 +30,13 @@ Tecnologias usadas para construir o Site:
 ## Feedback
 Ainda estou em um processo de aprendizado de desenvolvimento web, então fique à vontade para me enviar um e-mail se você tiver quaisquer feedbacks / comentários ou qualquer coisa útil que possa me ajudar a continuar melhorando.
 
+
+## Projeto concluído
+
+![game](https://user-images.githubusercontent.com/99623159/154178763-4d74d91d-9898-4496-aaed-193127a1b750.png)
+![headset](https://user-images.githubusercontent.com/99623159/154178765-e45d4e3d-0d13-4acd-b533-572e7672b686.png)
+![mouse](https://user-images.githubusercontent.com/99623159/154178767-16af5346-c98e-43c5-bf6d-504325052b61.png)
+![teclado](https://user-images.githubusercontent.com/99623159/154178769-b39a9984-af7b-45d6-b401-80cd4baeb3c9.jpg)
+
+
 :email: samantaanchieta1989@gmail.com
